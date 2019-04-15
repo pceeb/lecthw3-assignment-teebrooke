@@ -41,3 +41,7 @@ E	. M	--  I	..  L	.-..  Y	-.--
 ```
 
 The white space between letters / morse code sets is a tab.  e.g `E	.\tM	--\tI	..\tL	.-..\tY	-.--`
+
+## __How you submit your answers__  
+Push the scripts you wrote for part 1 and 2 
+to this repository.  
