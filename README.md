@@ -3,7 +3,7 @@
 ## [Read about loops](https://ryanstutorials.net/bash-scripting-tutorial/bash-loops.php)
 
 ## _then..._
-__Hint__ Check out the lecture notes from Week2_Monday_pt2 for help with the output.
+__Hint__ Check out the lecture notes from [Week2_Monday_pt2] (https://dechavezv.github.io/eeb_C177_2019//lecture_pdfs/Week2_Monday_pt2.html) for help with the output.
 
 ## __Write__
 a well commented shell script called morse_code_script_<your_ initials>1.sh that does the following to the file /u/home/class/c177/c177-i0/classdata/Homework_data/data-shell/data/morse.txt:
