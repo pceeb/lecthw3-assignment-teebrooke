@@ -1,4 +1,4 @@
-# Lecture Homework: Practice exercises due 4-17-19 before class.
+# Lecture Homework: Practice exercises due 4-17-19 at 11:00:00pm.
 
 ## [Read about loops](https://ryanstutorials.net/bash-scripting-tutorial/bash-loops.php)
 
