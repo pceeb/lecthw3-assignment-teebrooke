@@ -1,0 +1,12 @@
+#!/bin/bash
+#This program prints:
+#The Morse Code for the input word
+#The input word is T A Y L O R
+# Then it searches teh text file morse.txt for the lines that contain "T A Y L O R" using grep and prints the matching line(s)
+
+echo The Morse Code for the input word
+
+echo T A Y L O R
+
+grep "T A Y L O R" morse.txt
+
